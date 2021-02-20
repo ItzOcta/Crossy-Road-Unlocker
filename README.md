@@ -1,7 +1,7 @@
 # Crossy-Road-Unlocker
 This program allows you to unlock all the Crossy road characters, get coins, raise your score and other things
 
-Before using this program you must extract it to the desktop, if the folder is not on the desktop the program may not work
+Before using this program, please put the folder named "CrossyRoadUnlocker" on the desktop for the program to work properly
 
 How to use it:
 
